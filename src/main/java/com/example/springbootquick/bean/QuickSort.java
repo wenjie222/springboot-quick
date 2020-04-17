@@ -42,6 +42,7 @@ public class QuickSort {
         System.out.println("循环次数："+count);
     }
 
+    //非常nice
     private static String arrayToString(int[] arr,String flag){
         String str = "数组为("+flag+"):";
         for(int a:arr){
